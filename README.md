@@ -96,4 +96,10 @@ cain工具破解mysql密码
 oclhash破解
  John the Ripper password cracker
  
- 渗透测试工程师子域名收集指南 子域名枚举 在Google搜索中使用“site:”操作符查找子域名 用VirusTotal找到子域名 使用DNSdumpster查找子域名 使用Sublist3r进行子域名枚举 使用crt.sh查找一个组织主域名的子域名
+ 渗透测试工程师子域名收集指南
+	子域名枚举 
+	在Google搜索中使用“site:”操作符查找子域名 
+	用VirusTotal找到子域名 
+	使用DNSdumpster查找子域名 
+	使用Sublist3r进行子域名枚举 
+	使用crt.sh查找一个组织主域名的子域名
